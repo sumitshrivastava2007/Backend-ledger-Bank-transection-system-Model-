@@ -130,5 +130,4 @@ All APIs are tested using Postman to ensure:
 
 ## 👨‍💻 Author
 
-Your Name  
-Backend Developer | Node.js Enthusiast
+Sumit Shrivastava
